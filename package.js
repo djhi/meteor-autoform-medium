@@ -1,6 +1,6 @@
 Package.describe({
   name: 'gildaspk:autoform-medium',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: "Medium editor for AutoForm",
   description: "Medium editor for AutoForm",
   git: "http://github.com/djhi/meteor-autoform-medium.git"
@@ -13,7 +13,7 @@ Package.onUse(function(api) {
     'coffeescript',
     'templating',
     'aldeed:autoform@5.1.1',
-    'citizenkevin:medium-editor@1.0.0',
+    'gildaspk:medium-editor@0.0.1',
   ], 'client');
 
   // TODO: restore when medium editor fixe deactivate

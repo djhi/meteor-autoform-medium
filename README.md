@@ -1,9 +1,6 @@
 # Meteor Autoform Medium Editor
 Adds [medium editor](https://github.com/yabwe/medium-editor) for [autoform](https://github.com/aldeed/meteor-autoform).
 
-## Notes
-This package is deprecated. Please use the `mediumeditor:mediumeditor` package.
-
 ## Setup
 1. `meteor add gildaspk:autoform-medium`
 

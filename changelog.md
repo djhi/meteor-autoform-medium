@@ -1,4 +1,4 @@
-# 0.0.4
+# 0.0.5
 Switch to `mediumeditor:mediumeditor`, official package.
 Added a template specific to materialize as using quickForm or quickField would
 generate a label which does not play well with the editor.
